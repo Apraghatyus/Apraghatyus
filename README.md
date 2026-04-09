@@ -1,4 +1,4 @@
-# Hola, soy Juan Camilo 👋
+# Hola, soy Juan Camilo 
 
 Desarrollador fullstack de **Cali, Colombia**.
 
