@@ -22,8 +22,6 @@ Trabajo con Angular, Vue.js, Python Flask y PHP Laravel — construyendo desde l
 |---|---|
 | [aguaquim-web-page](https://github.com/Apraghatyus/aguaquim-web-page) | Landing page para laboratorio de análisis de agua — Vue.js 3 + Vite + Docker |
 | [Homelab](https://github.com/Apraghatyus/Homelab) | Mi pequeño laboratorio casero de servidores |
-| [Test-Programming](https://github.com/Apraghatyus/Test-Programming) | Roadmap de programación siguiendo la ruta de Moure |
-| [Cafe-tech](https://github.com/Apraghatyus/Cafe-tech) | Proyecto tech con Python |
 
 ---
 
